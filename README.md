@@ -14,11 +14,21 @@
 
 <img src="https://github.com/BUCT-IUSRC/Dataset__ParallelBody/blob/main/readme_image/5.png">
 
-  Light sensor: light sensor using Ji Ou speed light illuminance sensor, the relevant information download site is as follows: www.hbousu.com
+  Light sensor: light sensor using Ji Ou speed light illuminance sensor, the relevant information download site is as follows: www.hbousu.com.
+  
+  
   As the highest value of midday light in about 70,000 Lux, night light is basically below 150, so the plan is in accordance with the 0-200 for the first level, 200-30,000 for the second level, more than 30,000 labeled as the third level of intensity, at the same time, through the recording to assist in the labeling of the passing under the bridge, passing under the building and so on.
-  Vibration sensor: vibration sensor model WTVB01-BT50, equipment-related information download website: https://wit-motion.yuque.com/wumwnr/docs/ufvs0fdz7d51ow8x, the
+
+  
+  Vibration sensor: vibration sensor model WTVB01-BT50, equipment-related information download website: https://wit-motion.yuque.com/wumwnr/docs/ufvs0fdz7d51ow8x.
+
+  
   Since the z-axis vibration displacement after passing a speed bump is around 200μm, and the norm is basically below 20, it is planned to follow 0-25 as the first level, 25-100 as the second level, and more than 100 as the third level of intensity, and at the same time, it is labeled by the audio recording to assist in the cases of passing a speed bump, passing a pothole with the left front wheel, etc. The sound sensor and imu are not labeled.
+
+
 Sound sensors and imu are not labeled, direct disclosure of raw data
+
   Camera laser and millimeter wave radar in accordance with the laser radar labeling data shall prevail, from the laser radar projection to the camera and millimeter wave radar data.
 Download:
+
   The dataset is available from here: http://iusrc.com/column/znsjj
