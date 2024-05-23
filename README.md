@@ -28,7 +28,9 @@
   The e8:cb:ed:5a:54:12 device is located at the right front of the vehicle, the e8:cb:ed:5a:53:cc device is located at the right rear of the vehicle, the 38:1e:c7:e3:a3:85 device is located at the left front of the vehicle, and the e8:cb:ed:5a:57:4d device is located at the left rear of the vehicle.
   Example of Light Sensor Data:
 
+
 <img src="https://github.com/BUCT-IUSRC/Dataset__ParallelBody/blob/main/readme_image/5.png">
+
 
   Light sensor: light sensor using Ji Ou speed light illuminance sensor, the relevant information download site is as follows: www.hbousu.com.
   
