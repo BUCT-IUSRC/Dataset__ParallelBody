@@ -10,7 +10,7 @@
   Data labeling:Example of vibration sensor data
 <img src="https://github.com/BUCT-IUSRC/Dataset__ParallelBody/blob/main/readme_image/4.png">
   The e8:cb:ed:5a:54:12 device is located at the right front of the vehicle, the e8:cb:ed:5a:53:cc device is located at the right rear of the vehicle, the 38:1e:c7:e3:a3:85 device is located at the left front of the vehicle, and the e8:cb:ed:5a:57:4d device is located at the left rear of the vehicle.
-  Example of Light Sensor Data
+  Example of Light Sensor Data:
 
 <img src="https://github.com/BUCT-IUSRC/Dataset__ParallelBody/blob/main/readme_image/5.png">
 
@@ -26,7 +26,7 @@
   Since the z-axis vibration displacement after passing a speed bump is around 200μm, and the norm is basically below 20, it is planned to follow 0-25 as the first level, 25-100 as the second level, and more than 100 as the third level of intensity, and at the same time, it is labeled by the audio recording to assist in the cases of passing a speed bump, passing a pothole with the left front wheel, etc. The sound sensor and imu are not labeled.
 
 
-Sound sensors and imu are not labeled, direct disclosure of raw data
+Sound sensors and imu are not labeled, direct disclosure of raw data.
 
   Camera laser and millimeter wave radar in accordance with the laser radar labeling data shall prevail, from the laser radar projection to the camera and millimeter wave radar data.
 Download:
