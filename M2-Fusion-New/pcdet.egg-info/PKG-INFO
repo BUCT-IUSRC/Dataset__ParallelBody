@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: pcdet
+Version: 0.3.0+baf45e5
+Summary: OpenPCDet is a general codebase for 3D object detection from point cloud
+Author: Shaoshuai Shi
+Author-email: shaoshuaics@gmail.com
+License: Apache License 2.0
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: torch>=1.1
+Requires-Dist: spconv
+Requires-Dist: numba
+Requires-Dist: tensorboardX
+Requires-Dist: easydict
+Requires-Dist: pyyaml
