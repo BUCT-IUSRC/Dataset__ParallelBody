@@ -50,3 +50,6 @@ Sound sensors and imu are not labeled, direct disclosure of raw data.
 Download:
 
   The dataset is available from here: http://iusrc.com/column/znsjj
+  |                                             | Easy | Moderate | Hard | Model |
+|---------------------------------------------|:-------:|:-------:|:-------:|:-------:|
+|[m2fusion](M2-Fusion-New/tools/cfgs/mine_models/pointpillar.yaml)| 89.34 | 44.67 | 37.86 | [ckpt](https://drive.google.com/file/d/1Ukgj2VkNJJSvp7oSkUwZeCmyidfhfhmD/view?usp=sharing) |
