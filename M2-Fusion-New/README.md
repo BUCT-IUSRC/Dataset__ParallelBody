@@ -21,7 +21,7 @@ Multi-modal fusion plays a critical role in 3D object detection, overcoming the 
 - Python 3.6+
 - PyTorch 1.1 or higher (本项目PyTorch 1.10)
 - CUDA 9.0 or higher (PyTorch 1.3+ needs CUDA 9.2+)（本项目基于cuda11.3+PyTorch1.10）
-- [spconv v1.0 (commit 8da6f96)](https://github.com/traveller59/spconv/tree/8da6f967fb9a054d8870c3515b1b44eca2103634) or [spconv v1.2]((https://drive.google.com/file/d/1HtIm-LvoWJ_UNhGKzC-EzDkTsvNFs8-L/view?usp=sharing)) or [spconv v2.x](https://github.com/traveller59/spconv)（本项目基于spconv1.2.1）
+- [spconv v1.0 (commit 8da6f96)](https://github.com/traveller59/spconv/tree/8da6f967fb9a054d8870c3515b1b44eca2103634) or [spconv v1.2](https://drive.google.com/file/d/1HtIm-LvoWJ_UNhGKzC-EzDkTsvNFs8-L/view?usp=sharing) or [spconv v2.x](https://github.com/traveller59/spconv)（本项目基于spconv1.2.1）
 
 ### Installation
 
