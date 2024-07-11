@@ -11,7 +11,7 @@ Multi-modal fusion plays a critical role in 3D object detection, overcoming the 
 
 * Model Framework:
 <p align="center">
-  <img src="[https://github.com/BUCT-IUSRC/Dataset__ParallelBody/blob/main/readme_image/1.png](https://github.com/BUCT-IUSRC/Dataset__ParallelBody/blob/main/readme_image/ZTZ_1.png)">
+  <img src="https://github.com/BUCT-IUSRC/Dataset__ParallelBody/blob/main/readme_image/ZTZ_1.png">
 </p>
 
 ## Environment
