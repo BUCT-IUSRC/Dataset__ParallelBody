@@ -52,4 +52,5 @@ Sound sensors and imu are not labeled, direct disclosure of raw data.
 Download:
 
   The dataset is available from here: http://iusrc.com/column/znsjj
+  
   If you have any problem about this work,please feel free to reach us out at zhangtz@mail.buct.edu.cn
