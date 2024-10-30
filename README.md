@@ -1,4 +1,4 @@
-      ParallelBody: A Multi-sensory Interactive Perception Dataset for Intelligent Vehicles
+      MIPD: A Multi-sensory Interactive Perception Dataset for Intelligent Vehicles
 ## Baseline
 
 This dataset is in kitti format and our main baseline is built in [SFD](https://github.com/LittlePey/SFD), please refer to the SFD configuration environment if needed.
